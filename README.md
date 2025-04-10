@@ -11,3 +11,5 @@
 ![img3](images/image3.png)
 # db de mongo
 ![img1](images/image.png)
+# nginx
+![img1](images/image12.png)
